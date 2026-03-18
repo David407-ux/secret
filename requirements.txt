@@ -1,4 +1,3 @@
-aiogram==3.0.0
-pydantic==2.5.3
-groq
+aiogram==2.25.1
 requests
+groq
